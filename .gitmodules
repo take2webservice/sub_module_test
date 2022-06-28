@@ -1,0 +1,3 @@
+[submodule "the_sub_module"]
+	path = the_sub_module
+	url = git@github.com:take2webservice/the_sub_module.git
